@@ -4,6 +4,7 @@
   "autoclose.nvim": { "branch": "main", "commit": "bcad8e84d9cd78ba73433cb396b68e489af11e31" },
   "cheatsheet.nvim": { "branch": "master", "commit": "6a5c69d42013331a3eda70b340378f2f912b9a90" },
   "cmp-nvim-lsp": { "branch": "main", "commit": "cbc7b02bb99fae35cb42f514762b89b5126651ef" },
+  "cmp-spell": { "branch": "master", "commit": "694a4e50809d6d645c1ea29015dad0c293f019d6" },
   "cmp_luasnip": { "branch": "master", "commit": "98d9cb5c2c38532bd9bdb481067b20fea8f32e90" },
   "cyberdream.nvim": { "branch": "main", "commit": "b3f4ef5e9b8ee370c913a48b63e130b730ee8782" },
   "friendly-snippets": { "branch": "main", "commit": "b4d01b0fdf3c9a549961c2f9ffe8dc09be166219" },

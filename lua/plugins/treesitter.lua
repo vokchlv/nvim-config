@@ -21,6 +21,7 @@ return {
           enable = true,
           -- Some languages need regex highlighting system like ruby for rules
           additional_vim_regex_highlighting = { 'ruby' },
+          disable = { "latex" },
       },
       indent = { enable = true, disable = { 'ruby' } },
     },
