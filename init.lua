@@ -22,8 +22,10 @@ vim.api.nvim_create_autocmd("FileType", {
 require('lsp.luals')
 require('lsp.clangd')
 require('lsp.texlab')
+require('lsp.ltex')
 
 -- Enable Language-Server
 vim.lsp.enable('luals')
 vim.lsp.enable('clangd')
 vim.lsp.enable('texlab')
+vim.lsp.enable('ltex')
